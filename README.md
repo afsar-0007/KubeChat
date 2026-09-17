@@ -420,4 +420,3 @@ Also, because your actual MongoDB credentials differed from the original .env, d
 This README is intentionally written around what you actually built—Docker → Docker Hub → Kubernetes Namespace → three Deployments/Services → MongoDB PV/PVC → Secrets → Ingress—rather than making it sound like a generic Kubernetes demo
 
 
-![Application UI](<Screenshot 2026-09-17 204648.png>) ![alt text](<Screenshot 2026-09-17 201244.png>) ![Running k8s configuration](<Screenshot 2026-09-17 201507.png>)
