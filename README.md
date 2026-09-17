@@ -421,3 +421,12 @@ This README is intentionally written around what you actually built—Docker →
 
 <img width="1465" height="617" alt="Running services" src="https://github.com/user-attachments/assets/766d5d38-1909-4770-af45-22a0076dcef2" />
 
+## 📸 Screenshots
+
+### Application UI
+
+![Application UI](./screenshots/application.png)
+
+### Kubernetes Pods, Services & Storage
+
+![Running Kubernetes Configuration](./screenshots/running-services.png)
