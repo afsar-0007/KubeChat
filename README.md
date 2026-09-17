@@ -419,4 +419,5 @@ Also, because your actual MongoDB credentials differed from the original .env, d
 
 This README is intentionally written around what you actually built—Docker → Docker Hub → Kubernetes Namespace → three Deployments/Services → MongoDB PV/PVC → Secrets → Ingress—rather than making it sound like a generic Kubernetes demo
 
+<img width="1465" height="617" alt="Running services" src="https://github.com/user-attachments/assets/766d5d38-1909-4770-af45-22a0076dcef2" />
 
